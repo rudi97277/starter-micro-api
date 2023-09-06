@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ml-anova":"^1.15"
+    "ml-anova":"^1.1.5"
   }
 }
